@@ -1,6 +1,6 @@
 {
   "name": "@telnyx/webrtc",
-  "version": "2.7.6",
+  "version": "2.8.2",
   "description": "Telnyx WebRTC Client",
   "keywords": [
     "telnyx",
@@ -15,7 +15,7 @@
   ],
   "main": "lib/bundle.js",
   "module": "lib/bundle.mjs",
-  "types": "lib/index.d.ts",
+  "types": "lib/src/index.d.ts",
   "files": [
     "lib"
   ],
